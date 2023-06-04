@@ -28,7 +28,7 @@ export const useChatStore = defineStore(
         label: 'Bing 官方',
       },
       {
-        baseUrl: 'https://sydney.vcanbb.chat',
+        baseUrl: 'https://hello-world-late-bread-2190.1315500324.workers.dev/',
         label: 'Cloudflare',
       },
       {
